@@ -1,0 +1,55 @@
+.body{
+    background: #616161;  
+    background: linear-gradient(to right, hsla(177, 27%, 69%, 0.61), hsla(0, 0%, 38%, 0.61)), url(../Monty/img/herreriaa2.jpg);
+     background: linear-gradient(to right, hsla(177, 27%, 69%, 0.61), hsla(0, 0%, 38%, 0.61)), url(../Monty/img/herreriaa2.jpg); 
+    background-size: cover;
+    background-attachment: fixed;
+    position: relative;
+    
+    
+}
+.titulo{
+    text-align: center;
+    color: #fff;
+
+}
+nav{
+    text-align: right;
+    padding: 30px 50px 0 0;
+
+}
+nav >a{
+    color: white;
+    font-weight: 300;
+    text-decoration: none;
+    margin-right: 10px;
+
+}
+nav >a:hover{
+
+    text-decoration: underline;
+
+
+}
+.texto1{
+    text-align: center;
+
+
+}
+.texto2{
+    text-align: center;
+
+
+}
+.texto3{
+    text-align: center;
+
+
+}
+.img{
+    width: 35%;
+    padding: 45px 0px 20px 10px;
+    
+    
+    
+}
